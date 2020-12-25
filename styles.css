@@ -71,6 +71,9 @@ body{
 
 hr{
     margin-top: 20px ;
+    background-color: gray;
+    height: 0.5px;
+    border: none;
 }
 .user-stats{
     display: flex;
