@@ -71,8 +71,8 @@ body{
 
 hr{
     margin-top: 20px ;
-    background-color: gray;
-    height: 0.5px;
+    height: 1px;
+    background-color: #ccc;
     border: none;
 }
 .user-stats{
